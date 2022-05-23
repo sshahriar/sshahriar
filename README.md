@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shahriar Newaz 
-- 👀 I’m interested in spors programming, software engineering
+- 👀 I’m interested in sports programming, software engineering
 - 🌱 I’m currently learning angularjs.
 - 📫 Feel free to reach me at: https://www.linkedin.com/in/shahriar-newaz/
 
